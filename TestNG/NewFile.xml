@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "mysuite">
+<test name = "mytest">
+<classes>
+<class name = "com.TestNG_project.D08AmazonAssignment">
+<methods>
+<exclude name = "testBestSellerLink"></exclude>
+<include name = "testElectronicsLink"></include>
+</methods>
+</class>
+</classes>
+</test>
+
+
+</suite>

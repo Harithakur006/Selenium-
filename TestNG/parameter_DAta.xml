@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "parameter">
+<test name = "username, password" >
+<classes>
+<class name = "com.TestNG_project.parameters">
+
+</class>
+
+</classes>
+<parameters>
+<parameter name = "username" value ="student"></parameter>
+<parameter name = "password"  value = "Password123"></parameter>
+<parameter name = "username1" value ="student"></parameter>
+<parameter name = "password1"  value = "Password123"></parameter>
+
+</parameters>
+
+</test>
+
+</suite>
